@@ -184,7 +184,7 @@ S.UI = (function () {
                 time = t;
                 S.Shape.switchShape(S.ShapeBuilder.letter(time));
               }
-            }, 1000);
+            },2200);
           }
           break;
 
